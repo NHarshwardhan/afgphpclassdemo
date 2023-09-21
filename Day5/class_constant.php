@@ -28,7 +28,7 @@
 
                public static function all(){
 
-                   return 'SELECT * FROM '. static::TABLE_NAME;
+                   return 'SELECT * FROM '. static::TABLE_NAME; # late static binding
                }
         }
 
