@@ -22,6 +22,7 @@
    
    $decrypted_data =  openssl_decrypt($encrypted_data,$cipher,$encryption_key,0,$iv);
    echo "<br><br>Decrypted Text: ". $decrypted_data;
+   
 
 
 ?>
