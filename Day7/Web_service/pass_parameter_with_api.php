@@ -3,7 +3,6 @@
      if(isset($_POST['button'])){
              
          $noOfRecords = $_POST['total_records'];
-
          $api = 'https://randomuser.me/api/?results='.$noOfRecords;
 
          $client = curl_init($api);
