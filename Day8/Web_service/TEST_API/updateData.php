@@ -2,7 +2,7 @@
  
   if(isset($_POST['action'])){
 
-    $api = 'http://localhost:8300/SeptPHP23/Day7/Web_service/RESTFUL_API/restful_put_api.php';
+    $api = 'http://localhost:8300/SeptPHP23/Day8/Web_service/RESTFUL_API/restful_put_api.php';
 
     $client = curl_init($api);
     
