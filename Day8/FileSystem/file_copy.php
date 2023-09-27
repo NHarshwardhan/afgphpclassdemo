@@ -1,5 +1,0 @@
-<?php
-   
-    $source = 'input.txt'
-
-?>
