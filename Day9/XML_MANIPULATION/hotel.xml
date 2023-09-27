@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+
+<hotels>
+      <hotel stars="5">
+            <name>Persident Wilson</name>
+            <city>Geneva</city>
+            <country>Switzerland</country>
+      </hotel>
+      <hotel stars="5">
+            <name>Montreux Palace</name>
+            <city>Montreux</city>
+            <country>Switzerland</country>
+      </hotel>
+      <hotel stars="3">
+            <name>Express by Holidy Inn</name>
+            <city>Geneva</city>
+            <country>Switzerland</country>
+      </hotel>
+</hotels>

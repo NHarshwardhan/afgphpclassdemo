@@ -1,0 +1,8 @@
+
+SimpleXML is a SAX XML Parser.
+
+It represents an XML document as a heierarchical set of objects & properties where each element is an 
+object and each attrbute is an object property
+
+
+
